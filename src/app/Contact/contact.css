@@ -27,11 +27,15 @@
   padding-left: 15px;
 }
 .button {
-  margin: 25px;margin-left: 95px;
+  margin: 25px;
+  margin-left: 95px;
   padding-left: 15px;
   border: 1px solid brown;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
   background-color: brown;
 }
-.message{ margin: 10px;margin-left: 95px;
-  padding-left: 15px;}
+.message {
+  margin: 10px;
+  margin-left: 95px;
+  padding-left: 15px;
+}

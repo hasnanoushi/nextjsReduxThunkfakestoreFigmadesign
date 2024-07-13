@@ -6,7 +6,7 @@ export default function Footer() {
     <div className="footer">
       <div className="row foot">
         <div className="col">
-           <ul>
+          <ul>
             <li>
               <b>Company info</b>
             </li>
@@ -28,7 +28,7 @@ export default function Footer() {
           </ul>
         </div>
         <div className="col">
-         <ul>
+          <ul>
             <li>
               <b>Features</b>
             </li>

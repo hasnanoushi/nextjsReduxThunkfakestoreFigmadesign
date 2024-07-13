@@ -1,0 +1,31 @@
+.footer {
+  background-color: #fff2f3;
+  margin-top: 20px;
+  padding-top: 20px;
+}
+.foot {
+  margin-top: 20px;
+  margin-left: 40px;
+}
+.Foot {
+  margin-top: 20px;
+  margin-left: 40px;
+  padding-bottom: 30px;
+}
+li {
+  padding-bottom: 6px;
+}
+ul {
+  list-style: none;
+}
+.footimg {
+  padding-left: 20px;
+  margin-left: 280px;
+}
+.footImg {
+  padding-left: 20px;
+}
+.listimg {
+  height: 20px;
+  width: 20px;
+}

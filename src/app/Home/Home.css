@@ -1,0 +1,167 @@
+
+/*Section1,also styling in Section2&4 used for Section1*/
+.bg_color {
+  background-color: #fff2f3;
+}
+.img {
+  margin-right: 100px;
+  height: 600px;
+  width: 600px;
+}
+.button {
+  background-color: green;
+  color: white;
+  border: 1px solid green;
+  width: 100px;
+  height: 40px;
+  border-radius: 5px;
+  margin-right: 15px;
+}
+.learn {
+  color: green;
+  border: 1px solid green;
+  width: 100px;
+  height: 40px;
+  border-radius: 5px;
+  background-color: white;
+}
+.texts {
+  padding-bottom: 40px;
+  width: 350px;
+}
+/*Section2 and Section4*/
+.leftcol {
+  margin: 100px;
+}
+.welcome {
+  color: green;
+}
+
+.practice-texts {
+  padding-bottom: 20px;
+  width: 600px;
+}
+/*Section3*/
+.img-sale {
+  margin-right: 100px;
+  height: 400px;
+  width: 200px;
+}
+.cover1 {
+  background-image: url("/Assets/cover1.jpeg");
+  background-size: 100%;
+  background-size: cover;
+  background-position: relative;
+  height: 400px;
+  width: 300px;
+  margin-top: 40px;
+}
+.cover2 {
+  background-image: url("/Assets/cover2.jpeg");
+  background-size: 100%;
+  background-size: cover;
+  background-position: relative;
+  height: 400px;
+  width: 300px;
+  margin-top: 40px;
+}
+.image-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 250px;
+  margin-bottom: 20px;
+}
+.topimage-container {
+  display: flex;
+  margin-top: 50px;
+  margin-bottom: 200px;
+}
+.topimage-container img {
+  width: 60px;
+  height: 40px;
+  margin: 20px 10px;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+.starflex {
+  display: flex;
+  flex-direction: row;
+}
+.star {
+  height: 20px;
+  width: 40px;
+  border-radius: 5px;
+  margin-left: 20px;
+}
+.courses {
+  color: green;
+  font-size: 15px;
+}
+.h5 {
+  color: darkgoldenrod;
+}
+.image-container img {
+  width: 30px;
+  height: 30px;
+  margin: 0 10px;
+  border-radius: 25px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+.learnbutton {
+  background-color: white;
+  border: 1px solid green;
+  color: green;
+  border-radius: 19px;
+  padding: 9px;
+}
+.textbox-flex {
+  display: flex;
+  flex-direction: column;
+  margin-top: 70px;
+  width: 270px;
+  padding-bottom: 10px;
+}
+.vl {
+  border-left: 2px solid blue;
+  height: 400px;
+  margin-top: 60px;
+}
+/*people card properties used for file CardList and Cards*/
+.cardlist {
+  display: flex;
+  flex-direction: row;
+  margin-left: 45px;
+  margin-top: 20px;
+}
+.card {
+  height: 430px;
+  width: 280px;
+  border-radius: 8px;
+  margin: 26px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+.card-img {
+  height: 270px;
+  width: 280px;
+  border-radius: 8px 8px 0 0;
+}
+.cardName {
+  padding-left: 58px;
+  padding-top: 15px;
+  font-size: 18px;
+  font-weight: bold;
+}
+.profession {
+  padding-left: 90px;
+  padding-top: 8px;
+}
+.socialmedia {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding-top: 8px;
+}
+.socialMedia {
+  padding-right: 15px;
+}

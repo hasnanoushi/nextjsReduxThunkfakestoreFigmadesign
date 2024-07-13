@@ -1,0 +1,37 @@
+.heading {
+  margin: 40px;
+  font-size: 25px;
+  font-weight: bold;
+  color: brown;
+}
+.forms {
+  margin: 50px;
+  border: 1px solid brown;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  width: 800px;
+}
+.name-box {
+  margin: 18px;
+  padding-left: 15px;
+}
+.email-box {
+  margin: 19px;
+  padding-left: 15px;
+}
+.mob-box {
+  margin: 13px;
+  padding-left: 15px;
+}
+.elements {
+  margin: 15px;
+  padding-left: 15px;
+}
+.button {
+  margin: 25px;margin-left: 95px;
+  padding-left: 15px;
+  border: 1px solid brown;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  background-color: brown;
+}
+.message{ margin: 10px;margin-left: 95px;
+  padding-left: 15px;}
